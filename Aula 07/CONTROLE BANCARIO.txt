@@ -1,0 +1,56 @@
+Data	Grupo	Descrição	Movimento	 Valor 	Banco
+05/01/2015	Mensal	Conta de Gás	Saída	 R$ 3400,00 	Itaú
+07/01/2015	Mensal	Serviços de Informática	Entrada	 R$ 23.800,00 	HSBC
+10/01/2015	Lazer	Aluguel de filmes	Saída	 R$ 30,00 	Bradesco
+10/01/2015	Mensal	Conta de Luz	Saída	 R$ 120,00 	Banco do Brasil
+18/01/2015	Mensal	TV a Cabo	Saída	 R$ 320,00 	Banco do Brasil
+20/01/2015	Lazer	Viagem Salvador	Saída	 R$ 12.000,00 	HSBC
+04/02/2015	Lazer	Restaurante Boa Refeição	Saída	 R$ 109,00 	HSBC
+08/01/2015	Mensal	Serviços de Informática	Entrada	 R$ 23.800,00 	Itaú
+08/02/2015	Eventual	Comissões sobre serviços	Entrada	 R$ 3.200,00 	Bradesco
+15/02/2015	Eventual	Supermercado	Saída	 R$ 235,00 	Bradesco
+21/02/2015	Mensal	Material de escritório	Saída	 R$ 134,00 	Itaú
+07/03/2015	Mensal	Serviços de Informática	Entrada	 R$ 24.000,00 	Itaú
+10/03/2015	Mensal	Pagamento Empréstimo	Saída	 R$ 1.400,00 	Itaú
+15/03/2015	Eventual	Roupas	Saída	 R$ 300,00 	Bradesco
+21/03/2015	Eventual	Comissões sobre serviços	Entrada	 R$ 4.500,00 	Bradesco
+25/03/2015	Mensal	Empréstimo feito ao Salvador	Entrada	 R$ 1.000,00 	Banco do Brasil
+25/03/2015	Eventual	Salário Janaina	Saída	 R$ 1.300,00 	Banco do Brasil
+25/03/2015	Lazer	Cinema e jantar	Saída	 R$ 230,00 	HSBC
+01/04/2015	Eventual	Sapatos	Saída	 R$ 260,00 	Bradesco
+05/04/2015	Mensal	Empréstimo	Saída	 R$ 1.000,00 	Banco do Brasil
+05/04/2015	Mensal	TV a Cabo	Saída	 R$ 320,00 	Itaú
+06/04/2015	Eventual	Doação	Saída	 R$ 1.000,00 	Bradesco
+08/04/2015	Mensal	Serviços de Informática	Entrada	 R$ 24.500,00 	Banco do Brasil
+11/04/2015	Mensal	Conta de Gás	Saída	 R$ 34,78 	Itaú
+03/05/2015	Eventual	Roupas	Saída	 R$ 290,00 	Bradesco
+05/05/2015	Lazer	Viagem Campinas	Saída	 R$ 1.200,00 	HSBC
+05/05/2015	Eventual	Comissões sobre serviços	Entrada	 R$ 2.560,00 	Bradesco
+10/05/2015	Mensal	Serviços de Informática	Entrada	 R$ 23.000,00 	Banco do Brasil
+10/05/2015	Mensal	Conta de Luz	Saída	 R$ 120,00 	Itaú
+18/05/2015	Lazer	Churrasco	Saída	 R$ 320,00 	HSBC
+20/05/2015	Eventual	Empréstimo feito ao Salvador	Entrada	 R$ 1.000,00 	Bradesco
+20/05/2015	Mensal	Material de escritório	Saída	 R$ 210,00 	Banco do Brasil
+20/05/2015	Eventual	Ladrilhos - reforma	Saída	 R$ 540,00 	Itaú
+30/05/2015	Eventual	Encanador	Saída	 R$ 1.000,00 	Bradesco
+30/05/2015	Eventual	Livros	Saída	 R$ 200,00 	Banco do Brasil
+10/06/2015	Mensal	Serviços de Informática	Entrada	 R$ 24.000,00 	Itaú
+10/06/2015	Eventual	Supermercado	Saída	 R$ 258,00 	Bradesco
+01/10/2015	Lazer	Jantar	Saída	 R$ 290,00 	HSBC
+01/10/2015	Lazer	Passeio	Saída	 R$ 198,00 	HSBC
+04/10/2015	Lazer	Teatro e jantar	Saída	 R$ 300,00 	HSBC
+04/10/2015	Eventual	Açougue	Saída	 R$ 280,00 	Bradesco
+05/10/2015	Mensal	TV a Cabo	Saída	 R$ 320,00 	Banco do Brasil
+06/10/2015	Mensal	Serviços de Informática	Entrada	 R$ 23.900,00 	Itaú
+15/10/2015	Eventual	Presente de casamento	Saída	 R$ 200,00 	Bradesco
+20/10/2015	Mensal	Empréstimo	Saída	 R$ 1.200,00 	Banco do Brasil
+25/10/2015	Mensal	Conta de Luz	Saída	 R$ 230,00 	Itaú
+29/10/2015	Eventual	Comissões sobre serviços	Entrada	 R$ 1.500,00 	Bradesco
+04/11/2015	Lazer	Viagem Buenos Aires	Saída	 R$ 10.000,00 	HSBC
+09/11/2015	Eventual	Compras em Buenos Aires	Saída	 R$ 2.300,00 	Bradesco
+17/11/2015	Mensal	Material de escritório	Saída	 R$ 135,00 	Banco do Brasil
+01/12/2015	Mensal	Pagamento Empréstimo	Saída	 R$ 1.230,00 	Itaú
+03/12/2015	Eventual	Supermercado	Saída	 R$ 450,00 	Bradesco
+10/12/2015	Mensal	Serviços de Informática	Entrada	 R$ 24.000,00 	Banco do Brasil
+20/12/2015	Eventual	Comissões sobre serviços	Entrada	 R$ 1.780,00 	Bradesco
+23/12/2015	Eventual	Salário Janaina	Saída	 R$ 1.300,00 	Bradesco

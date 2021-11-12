@@ -1,0 +1,20 @@
+---Nova função--- 
+
+somase do excel porém no porwerbi usa outra.
+-----------------------------------------------
+Função DAX - MEDIDAS
+
+TOTAL DE ENTRADAS = CALCULATE(SUM(CONTAS[ Valor ]), FILTER(CONTAS,CONTAS[Movimento]="Entrada"))
+
+TOTAL DE SAIDA = CALCULATE(SUM(CONTAS[ Valor ]),FILTER(CONTAS,CONTAS[Movimento]="Saída"))
+
+SALDO ATUALIZADO = [TOTAL DE ENTRADAS]-[TOTAL DE SAIDA]
+
+-------------------------------------------------
+
+- 2 PÁGINAS
+- TER OPÇÃO DE FILTRAR POR BANCO/MOVIMENTO E GRUPO.
+- FORMA DE VISUALIZAR QTO TEM EM CADA BANCO
+- TOTAL DE ENTRADA / TOTAL DE SAÍDA E SALDO ATUALIZADO EM CADA BANCO - VISUAL E NÚMEROS
+- SALDO EM CADA BANCO
+- INSERIR INFORMAÇÃO ADICIONAL QUE JULGUE INTERESSANTE
